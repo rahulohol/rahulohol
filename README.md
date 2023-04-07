@@ -1,16 +1,157 @@
-### Hi there 👋
+# Rahul Ohol
 
+<!-- HELLO WORLD -->
+<!-- [important Image ];  -- "https://media.licdn.com/dms/image/C5622AQHzpGvOn0lIrg/feedshare-shrink_2048_1536/0/1672135803562?e=1675296000&v=beta&t=3gxRZ0bA3HvDtmlj1OvFXDfhINmzIK8cAK4SyJnWAeo" -->
+
+
+<!-- ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
+
+<!-- /*profile viewer source!*/ -->
 <!--
-**rahulohol/rahulohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+comparison with suraj-996
+ <img src="https://camo.githubusercontent.com/416e0ec787850a66ce0eced8c153a172eeab4341c294da1c9465e485866ebb0d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d737572616a2d393936267468656d653d746f6b796f6e6967687426626f726465725f7261646975733d3130" />
+<img src="https://camo.githubusercontent.com/1b36ff5960d4013b2c5d2d34c1bced3b348b6b6b03b15a8b1b46e222372c99b8/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d546865726f626f3737267468656d653d746f6b796f6e696768745f64756f26646174655f666f726d61743d6a2532304d25354225323059253544" />
+ -->
+ 
+ <img src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" />
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Rahul Ohol</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
+
+<h2 align="center">A self-taught passionate Full Stack web developer ~ developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
+
+<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
+
+<!-- PROFILE VIEWS -->
+<!-- <img align=center src="https://visitcount.itsvg.in/api?id=rahulohol&icon=10&color=0" /> -->
+<img src="https://camo.githubusercontent.com/ce380e1e85f538d898c80023c1d97f09916e7eb66266eda50ed7a66a3482544f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4e617a6d75735361796164267374796c653d666c61742d737175617265"/>
+
+<!--  -->
+
+
+- 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
+
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/rahulohol?tab=repositories)
+
+- 💬 Ask me about **react / javaScript / redux**
+
+- 📫 How to reach me **(rahulohol01@gmail.com)**
+
+- 📫 Reach out with me by  **[(LinkDin)](https://www.linkedin.com/in/rahulohol/)**
+
+- ⚡ Fun fact :- `**knowledge is a key**`
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
+
+<!-- user-image (NAZMIN)
+<img align=center src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" /> -->
+
+## TECH STACK :
+
+<p align="center">
+ 
+<br/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+
+<br/>
+ <br/>
+<img alt="CSS3" src="https://user-images.githubusercontent.com/105917542/208613023-95fe5a96-0fed-4604-8e40-c83e44c1a04f.png" style="margin:2px;" height=30  />
+<img alt="CSS3"  src="https://user-images.githubusercontent.com/105917542/208622344-101f8282-06f2-4720-9ce8-69e349b51f84.png" style="margin:2px;" height=30   />
+ <img alt="NODE JS" src="https://camo.githubusercontent.com/4e85146d0009df49e897ef4c2d92fcc04186e532a34920141da1c128f234ce03/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132383070782d4e6f64652e6a735f6c6f676f2e7376672e706e67" style="margin:2px;" height=30  />
+ <img alt="WING" src="https://camo.githubusercontent.com/f1bd5881c40a5b8c21d76385a2740e4d92143ad80c02bb8b0cff4c58bf485af2/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f77696b6970656469612e706e67" style="margin:2px;" height=30  />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
+<br/>
+ 
+</p>
+
+<!-- <table  align=center>
+  <tr>
+ <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
+     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height=100   ></td>
+    <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"  height=100   width=150 ></td>
+     <td align=center> <img src="https://img.icons8.com/nolan/64/wikipedia.png"  height=100  ></td>
+   
+  </tr>
+  <tr>
+   
+  <td align=center>  <img src="https://img.icons8.com/color/48/null/chakra-ui.png"   width=100  ></td>
+   <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png"  height=100    ></td>
+  <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
+  <td align=center> <img src="https://img.icons8.com/plasticine/100/null/github.png"  height=100  ></td>
+  </tr>
+</table>  -->
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- )](https://github-readme-stats.vercel.app/api?username=rahulohol&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
+<!-- )](https://github-readme-stats.vercel.app/api?username=rahulohol&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
+
+<table  align=center>
+  <tr>
+    <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=rahulohol&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
+    
+  <td align=center> 
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulohol&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
+    </td>
+  </tr>
+  <tr>
+  <td align=center> 
+  
+   <img src="https://camo.githubusercontent.com/491294d8860bf803756b2f7451e72904323f79faff57f553fbbb77d35e647195/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7375466937383637266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137"   width=500  height=300>
+   </td>
+   <td>
+         <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulohol&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+   </td>
+   
+   
+   
+<!--    <td align=center>  
+     ![Therobo77 stats](https://github-readme-stats.vercel.app/api?username=rahulohol&theme=dark&show_icons=true)
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=rahulohol&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" -->
+         
+<!--          <-- width=500  height=300></td> --> -->
+  </tr>
+</table>
+
+<!-- 
+[![](https://github-readme-stats.vercel.app/api?username=rahulohol&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=rahulohol&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulohol&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=rahulohol&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)
+ -->
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
+
+<div align="center">
+ 
+## 🏆GitHub Trophies
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulohol&margin-w=15&margin-h=15&column=8" />
+</div>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
