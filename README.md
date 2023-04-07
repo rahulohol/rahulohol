@@ -1,4 +1,4 @@
-# Rahul Ohol
+# Hey, Welcome to my Github profile 😍
 
 <!-- HELLO WORLD -->
 <!-- [important Image ];  -- "https://media.licdn.com/dms/image/C5622AQHzpGvOn0lIrg/feedshare-shrink_2048_1536/0/1672135803562?e=1675296000&v=beta&t=3gxRZ0bA3HvDtmlj1OvFXDfhINmzIK8cAK4SyJnWAeo" -->
@@ -21,7 +21,7 @@ comparison with suraj-996
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
 
-<h2 align="center">A self-taught passionate Full Stack web developer ~ developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
+<h2 align="center">A self-taught passionate Full Stack web developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
 
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
@@ -42,7 +42,7 @@ comparison with suraj-996
 
 - 📫 Reach out with me by  **[(LinkDin)](https://www.linkedin.com/in/rahulohol/)**
 
-- ⚡ Fun fact :- `**knowledge is a key**`
+- ⚡ Fun fact :- `knowledge is a key`
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
