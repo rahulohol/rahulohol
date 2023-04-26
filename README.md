@@ -36,7 +36,7 @@ comparison with suraj-996
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/rahulohol?tab=repositories)
 
-- 💬 Ask me about **react / javaScript / redux**
+- 💬 Ask me about **react / javaScript / redux.**
 
 - 📫 How to reach me **(rahulohol01@gmail.com)**
 
