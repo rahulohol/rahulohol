@@ -38,7 +38,7 @@ comparison with suraj-996
 
 - 💬 Ask me about **react / javaScript / redux.**
 
-- 📫 How to reach me-> **(rahulohol01@gmail.com)**
+- 📫 How to reach me -> **(rahulohol01@gmail.com)**
 
 - 📫 Reach out with me by -> **[(Linkedin)](https://www.linkedin.com/in/rahulohol/)**
                                                    
