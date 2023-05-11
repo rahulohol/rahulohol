@@ -40,7 +40,7 @@ comparison with suraj-996
 
 - 📫 How to reach me-> **(rahulohol01@gmail.com)**
 
-- 📫 Reach out with me by  **[(Linkedin)](https://www.linkedin.com/in/rahulohol/)**
+- 📫 Reach out with me by -> **[(Linkedin)](https://www.linkedin.com/in/rahulohol/)**
                                                    
 - ⚡ Fun fact :- `Knowledge is a key to success..!`
 
