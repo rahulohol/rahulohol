@@ -34,7 +34,7 @@ comparison with suraj-996
 
 - 🌱 I’m currently learning **DSA,  node.js, express.js, mongo-db.**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/rahulohol?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/rahulohol?tab=repositories).
 
 - 💬 Ask me about **react / javaScript / redux.**
 
