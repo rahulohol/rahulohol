@@ -15,7 +15,7 @@ comparison with suraj-996
  
  <img src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" />
 
-<h1 align="center">Hi 👋, I'm Rahul Ohol </h1>
+<h1 align="center"> Hi 👋, I'm Rahul Ohol </h1>
 
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
