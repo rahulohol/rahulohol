@@ -111,7 +111,7 @@ comparison with suraj-996
   <tr>
   <td align=center> 
   
-  <img alt="Sanjay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulohol&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulohol&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
    </td>
    <td>
          <img width=500 height=300 src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulohol&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" />
