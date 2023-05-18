@@ -139,7 +139,7 @@ comparison with suraj-996
 
 <div align="center">
  
-## 🏆GitHub Trophies
+## 🏆GitHub Trophies...
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=rahulohol&margin-w=15&margin-h=15&column=8" />
