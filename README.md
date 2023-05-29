@@ -32,7 +32,7 @@ comparison with suraj-996
 <!--  -->
 
 
-- 🌱 I’m currently learning **DSA,  Node.js, Express.js, Mongo-db.**
+- 🌱 I’m currently learning **DSA, Node.js, Express.js, Mongo-db.**
 
 - 👨‍💻 All of my projects are available at -> [Repositories](https://github.com/rahulohol?tab=repositories).
 
