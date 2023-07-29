@@ -1,15 +1,5 @@
 # `  Hello World 👋.  ` 
-<!-- [important Image ];  -- "https://media.licdn.com/dms/image/C5622AQHzpGvOn0lIrg/feedshare-shrink_2048_1536/0/1672135803562?e=1675296000&v=beta&t=3gxRZ0bA3HvDtmlj1OvFXDfhINmzIK8cAK4SyJnWAeo" -->
 
-
-<!-- ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
-
-<!-- /*profile viewer source!*/ -->
-<!--
-comparison with suraj-996
- <img src="https://camo.githubusercontent.com/416e0ec787850a66ce0eced8c153a172eeab4341c294da1c9465e485866ebb0d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d737572616a2d393936267468656d653d746f6b796f6e6967687426626f726465725f7261646975733d3130" />
-<img src="https://camo.githubusercontent.com/1b36ff5960d4013b2c5d2d34c1bced3b348b6b6b03b15a8b1b46e222372c99b8/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d546865726f626f3737267468656d653d746f6b796f6e696768745f64756f26646174655f666f726d61743d6a2532304d25354225323059253544" />
- -->
  
  <img src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" />
 
@@ -19,7 +9,7 @@ comparison with suraj-996
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
 
-<h2 align="center"> A self-taught passionate Full Stack web developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications. </h2>
+<h2 align="center"> A self-taught passionate Full Stack web developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications. </h2> 
 
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
