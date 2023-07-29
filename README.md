@@ -11,7 +11,6 @@
 
 <h2 align="center"> A self-taught passionate Full Stack web developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications. </h2> 
 
-<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
 <!-- PROFILE VIEWS -->
 <img align=center src="https://visitcount.itsvg.in/api?id=rahulohol&icon=10&color=0" />
